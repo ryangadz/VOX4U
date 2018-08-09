@@ -3,8 +3,9 @@
 #pragma once
 
 #include "SlateBasics.h"
-#include "DeclarativeSyntaxSupport.h"
-#include "Reply.h"
+#include "SlateExtras.h" //added for 4.20
+//#include "DeclarativeSyntaxSupport.h" /LEGACY
+//#include "Reply.h" //LEGACY
 
 class UVoxImportOption;
 

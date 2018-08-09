@@ -3,8 +3,8 @@
 #pragma once
 
 #include "Engine.h"
-#include "Object.h"
-#include "UnrealTemplate.h"
+#include "CoreMinimal.h" //changed from Object.h
+//#include "UnrealTemplate.h" //lEGACY
 #include "Voxel.generated.h"
 
 class UStaticMesh;

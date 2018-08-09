@@ -4,7 +4,7 @@
 #include "PropertyEditorModule.h"
 #include "IDetailsView.h"
 #include "VoxImportOption.h"
-#include "SharedPointer.h"
+//#include "SharedPointer.h" //lEGACY
 
 SVoxOptionWidget::SVoxOptionWidget()
 	: Window(nullptr)
