@@ -7,7 +7,7 @@ Engine 4](https://www.unrealengine.com/).
 
 ## Requirement
 
-Unreal Engine 4 4.18 or later.
+Unreal Engine 4.20
 
 ## Description
 
